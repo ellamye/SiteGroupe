@@ -21,13 +21,30 @@
                 <li class="nav-item">
                     <a class="nav-link" href="#">A propos</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Contact</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">CGV</a>
+                </li>
                 </ul>
             </div>
         </nav>
 
         <section style="min-height: 90vh;">
 
-        <h1 class="col-md-8 mx-auto display-4 text-center alert alert-warning mt-3">Git hub</h1>
+
+        <h1 class="col-md-8 mx-auto display-4 text-center alert alert-warning mt-3">Git hub</h1
+
+
+        <h3 class="col-md-8 mx-auto display-4 text-center alert alert-success">Add/Push/Pull/</h3>
+
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perspiciatis 
+            quibusdam delectus inventore sed atque harum ex, ea aut accusantium quas 
+            repudiandae quos deserunt assumenda non asperiores unde labore voluptatibus rem.</p>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perspiciatis 
+            quibusdam delectus inventore sed atque harum ex, ea aut accusantium quas 
+            repudiandae quos deserunt assumenda non asperiores unde labore voluptatibus rem.</p>
         
         <p class="col-md-10 font-italic alert alert-success mx-auto">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reiciendis atque ipsa, debitis ratione aliquam, a cumque deserunt eligendi et distinctio illum animi suscipit fuga sit numquam ut magni? Quisquam, velit.</p>
 
