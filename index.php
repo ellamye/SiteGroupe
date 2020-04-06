@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container-fluid">
-        <nav class="navbar navbar-expand-lg navbar-dark bg-info">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-warning">
             <a class="navbar-brand" href="#">SiteGroupe</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -21,28 +21,17 @@
                 <li class="nav-item">
                     <a class="nav-link" href="#">A propos</a>
                 </li>
+                
                 </ul>
             </div>
         </nav>
 
         <section style="min-height: 90vh;">
 
-        <h1 class="col-md-8 mx-auto display-4 text-center alert alert-info mt-3">Git hub</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem est accusamus veniam 
-        excepturi aut? Voluptate, ipsam? Unde autem quaerat eaque nihil incidunt iure possimus temporibus ab 
-        distinctio vero! Quam, nisi?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem est accusamus veniam 
-        excepturi aut? Voluptate, ipsam? Unde autem quaerat eaque nihil incidunt iure possimus temporibus ab 
-        distinctio vero! Quam, nisi?
-        </p>
 
-        <ul>
-        <li>Positivons</li>
-        <li>positivement</li>
-        </ul>
         </section>
 
-        <footer class="bg-info text-center p-3 text-white">
+        <footer class="bg-warning text-center p-3 text-white">
             &copy 2020 - SiteGroupe
         </footer>
     </div>
