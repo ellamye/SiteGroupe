@@ -28,7 +28,18 @@
         <section style="min-height: 90vh;">
 
         <h1 class="col-md-8 mx-auto display-4 text-center alert alert-info mt-3">Git hub</h1>
-        
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem est accusamus veniam 
+        excepturi aut? Voluptate, ipsam? Unde autem quaerat eaque nihil incidunt iure possimus temporibus ab 
+        distinctio vero! Quam, nisi?
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem est accusamus veniam 
+        excepturi aut? Voluptate, ipsam? Unde autem quaerat eaque nihil incidunt iure possimus temporibus ab 
+        distinctio vero! Quam, nisi?
+        </p>
+
+        <ul>
+        <li>Positivons</li>
+        <li>positivement</li>
+        </ul>
         </section>
 
         <footer class="bg-info text-center p-3 text-white">
