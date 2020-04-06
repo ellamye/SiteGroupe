@@ -28,6 +28,31 @@
 
         <section style="min-height: 90vh;">
 
+        <h1 class="col-md-8 mx-auto display-4 text-center text-info mt-3">J'ai pas d'inspi</h1>
+
+        <form method="post" class="col-md-6 mx-auto mt-4">
+            <div class="form-group">
+                <label for="email">Email</label>
+                <input type="email" class="form-control" id="email" aria-describedby="emailHelp">
+            </div>
+            <div class="form-group">
+                <legend class="col-form-label">Ce temps est-il déprimant?</legend>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1">
+                    <label class="form-check-label" for="inlineRadio1">Oui</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
+                    <label class="form-check-label" for="inlineRadio2">Oui</label>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="message">Ajouter un message</label>
+                <textarea class="form-control" name="message" id="message" rows="5"></textarea>
+            </div>
+            <button type="submit" class="btn btn-success">Envoyer</button>
+        </form>
+
 
         </section>
 
